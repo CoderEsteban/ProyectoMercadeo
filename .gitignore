@@ -1,0 +1,11 @@
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.~ 
+*.swp
+
+# Ignorar archivos generados
+index.html
+*.md~    # backups
+*.png~   # backups
